@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "881007558531",
+    "firebase_url": "https://databarang-cdace-default-rtdb.firebaseio.com",
+    "project_id": "databarang-cdace",
+    "storage_bucket": "databarang-cdace.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:881007558531:android:10352bd5fc5a8ab5bf40b6",
+        "android_client_info": {
+          "package_name": "com.example.scanqrcode"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "881007558531-lmu2uk3ge4n5jqgjtlugimhcg8vsdije.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCg39s-Bwu1igG-Vg39lyKAyhwor4lzvr8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "881007558531-lmu2uk3ge4n5jqgjtlugimhcg8vsdije.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
